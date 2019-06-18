@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace MUSACA.Data
+namespace Panda.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

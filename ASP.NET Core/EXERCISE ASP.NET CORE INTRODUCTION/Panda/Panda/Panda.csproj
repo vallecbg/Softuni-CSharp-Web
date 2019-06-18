@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <UserSecretsId>aspnet-MUSACA-CE2B4DE0-064A-48FE-8F3B-4AC9554E18F3</UserSecretsId>
+    <UserSecretsId>aspnet-Panda-030F5AC6-56DA-416C-A6BC-18CAFE0B5681</UserSecretsId>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 

@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using MUSACA.Models;
+using Panda.Models;
 
-namespace MUSACA.Controllers
+namespace Panda.Controllers
 {
     public class HomeController : Controller
     {

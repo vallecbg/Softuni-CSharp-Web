@@ -1,6 +1,6 @@
 using System;
 
-namespace MUSACA.Models
+namespace Panda.Models
 {
     public class ErrorViewModel
     {

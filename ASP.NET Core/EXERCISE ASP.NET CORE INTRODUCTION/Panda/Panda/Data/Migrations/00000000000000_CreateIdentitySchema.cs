@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace MUSACA.Data.Migrations
+namespace Panda.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
