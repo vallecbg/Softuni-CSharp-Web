@@ -1,7 +1,6 @@
 @using Microsoft.AspNetCore.Identity
-@using Panda.Domain
-@inject SignInManager<PandaUser> SignInManager
-@inject UserManager<PandaUser> UserManager
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
 
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))

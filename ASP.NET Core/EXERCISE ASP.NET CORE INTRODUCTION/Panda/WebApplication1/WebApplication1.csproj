@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <UserSecretsId>aspnet-Panda-030F5AC6-56DA-416C-A6BC-18CAFE0B5681</UserSecretsId>
+    <UserSecretsId>aspnet-WebApplication1-CE833A66-29A0-4516-9446-83248916B9F6</UserSecretsId>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
@@ -10,11 +10,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
-  </ItemGroup>
-
-
-  <ItemGroup>
-    <ProjectReference Include="..\Panda.Data\Panda.Data.csproj" />
   </ItemGroup>
 
 </Project>
