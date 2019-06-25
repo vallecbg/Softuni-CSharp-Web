@@ -1,4 +1,6 @@
-﻿namespace Panda.App.Models.Package
+﻿using System.Collections;
+
+namespace Panda.App.Models.Package
 {
     public class PackagePendingViewModel
     {
